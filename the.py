@@ -1,9 +1,4 @@
 
 name = input('Как вас зовут блин? ')
-b = f'Привет {name}!'
-print(b)
-print(b)
-print(b)
-print(b)
-print(b)
-print(b)
+abc1 = f'Привет {name}!'
+print(abc1)
