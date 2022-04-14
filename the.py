@@ -1,6 +1,9 @@
-from calendar import c
 
-
-name = input('Как вас зовут? ')
-с = f'Привет {name}'
-print(c)
+name = input('Как вас зовут блин? ')
+b = f'Привет {name}!'
+print(b)
+print(b)
+print(b)
+print(b)
+print(b)
+print(b)
